@@ -1,0 +1,24 @@
+
+osquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÉÿÇ¬
+?squid:S1148o"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S19890"(Add a "try/catch" block for "getWriter".(•…—Äúÿÿÿÿ
+?squid:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Asquid:S1989("%Add a "try/catch" block for "doPost".(éöõ¦ùÿÿÿÿ
+@squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(š¢Úˆüÿÿÿÿ
+nsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÕÿóQ
+Dsquid:S1989?"(Add a "try/catch" block for "getWriter".(ëÜÙÀùÿÿÿÿ
+Asquid:S1989("%Add a "try/catch" block for "doPost".(éöõ¦ùÿÿÿÿ
+3squid:S3626˜"Remove this redundant jump.(ÉŠ©ƒ
+3squid:S3626”"Remove this redundant jump.(ÉŠ©ƒ
+O
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(Ğ†ñn
+gsquid:UselessImportCheck">Remove this unused import 'com.mld.annotation.MyRequestParam'.(“ù¼üÿÿÿÿ
+?squid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(—ïéÕüÿÿÿÿ
+o
+squid:S135O"YReduce the total number of break and continue statements in this loop to use at most one.(¹ÒĞ’
+osquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(™à»É
+u
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(œßƒÒÿÿÿÿÿ
